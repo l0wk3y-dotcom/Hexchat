@@ -1,0 +1,6 @@
+Package    Version
+---------- -------
+click      8.1.7
+pip        23.2.1
+setuptools 68.0.0
+wheel      0.40.0
